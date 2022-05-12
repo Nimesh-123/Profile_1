@@ -120,9 +120,9 @@
                 android:layout_height="100dp"
                 android:layout_centerVertical="true"
                 android:layout_marginLeft="140dp"
-                android:tint="#B70EC3"
                 android:layout_marginTop="20dp"
                 android:src="@drawable/image12"
+                android:tint="#B70EC3"
                 app:civ_border_color="#B70EC3" />
 
 
